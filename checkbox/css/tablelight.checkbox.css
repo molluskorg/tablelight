@@ -1,0 +1,14 @@
+.tl-uncheck{
+	cursor: pointer;
+	display: inline-block;
+	margin: 10px 0px;
+	text-decoration: underline;
+}
+
+table.tl-table, .tl-table th, .tl-table td {
+
+	padding: 5px;
+	border-spacing: 10px;
+	border: 1px solid #000000;
+
+}

@@ -1,0 +1,51 @@
+
+#tl-range{
+	padding-left:30px;
+}
+
+#tl-amount{
+	border:0; 
+	color:#f6931f; 
+	font-weight:bold; 
+	font-size:16px;
+}
+
+#tl-amountmin{
+	border:0; 
+	color:#f6931f; 
+	font-weight:bold; 
+	font-size:16px;
+	width:5ch;
+	outline: none;
+}
+
+#tl-amountmax{
+	border:0; 
+	color:#f6931f; 
+	font-weight:bold; 
+	font-size:16px;
+	width:5ch;
+	outline: none;
+	padding-left:10px;
+	text-align:right;
+}
+
+#tl-slider-range{
+	width:300px;
+}
+
+#tl-dasher{
+	color:#f6931f; 
+	font-weight:bold; 
+	font-size:16px;	
+}
+
+.bumper{
+	padding-bottom: 30px;
+}
+
+table.tl-table, .tl-table th, .tl-table td {
+	padding: 5px;
+	border-spacing: 10px;
+	border: 1px solid #000000;
+}
